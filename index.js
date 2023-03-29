@@ -5,3 +5,4 @@ let a =arr.map((value, index, array)=>{
 });
 console.log(a)
 console.log("HEllo world!")
+console.log ("STILL TODAY ALSO NOT DID I WANT IT'S OKAY")
